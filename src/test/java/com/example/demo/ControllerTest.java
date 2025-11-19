@@ -1,4 +1,4 @@
-package com.example; // MAKE SURE THIS PACKAGE NAME IS CORRECT FOR YOUR PROJECT
+package com.example.demo; // MAKE SURE THIS PACKAGE NAME IS CORRECT FOR YOUR PROJECT
 
 import com.example.demo.model.Student;
 import com.example.demo.repository.StudentRepository;
