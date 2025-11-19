@@ -34,7 +34,7 @@ class ControllerTest {
         studentRepository.save(student); 
 
         // 3. Assert: Verify the save worked by counting records
-        assertThat(studentRepository.count()).isEqualTo(1); 
+        assertThat(studentRepository.count()).isEqualTo(1); // NBR d'etudiant 
     } 
 
     @Test
